@@ -29,7 +29,7 @@ public class MagazineList {
     }
 
     public void shot() {
-        if(isLoaded()) {
+        if (isLoaded()) {
             System.out.println(clip.remove(clip.size() - 1));
         } else {
             System.out.println("EMPTY CLIP");
