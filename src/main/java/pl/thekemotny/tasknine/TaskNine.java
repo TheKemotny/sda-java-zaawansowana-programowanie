@@ -10,6 +10,7 @@ public class TaskNine {
         System.out.println(circle);
         circle.move(new MoveDirection(1,1));
         System.out.println(circle);
+        circle.resize(0.5);
         System.out.println(circle.radius());
         System.out.println(circle.area());
         System.out.println(circle.perimeter());

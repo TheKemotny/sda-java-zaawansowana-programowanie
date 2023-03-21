@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="TaskEight">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeleven/IResizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/TaskNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskten/IMovable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskten/MoveDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskten/TaskTen.java" afterDir="false" />
+    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="TaskEleven">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseven/MagazineList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseven/MagazineList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/TaskNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/TaskNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskten/TaskTen.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679424512348</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="TaskEleven">
+      <created>1679427900012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679427900012</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +100,7 @@
     <MESSAGE value="TaskFourth&#10;Storage" />
     <MESSAGE value="TaskSeven" />
     <MESSAGE value="TaskEight" />
-    <option name="LAST_COMMIT_MESSAGE" value="TaskEight" />
+    <MESSAGE value="TaskEleven" />
+    <option name="LAST_COMMIT_MESSAGE" value="TaskEleven" />
   </component>
 </project>

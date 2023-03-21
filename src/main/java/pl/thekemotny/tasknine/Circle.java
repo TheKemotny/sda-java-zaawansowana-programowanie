@@ -68,6 +68,9 @@ public final class Circle implements IMovable, IResizable {
 
     @Override
     public void resize(final double resizeFactor) {
-
+        point.setX(point.x() * resizeFactor);
+        point.setY(point.y() * resizeFactor);
+        center.setX(center.x() * resizeFactor);
+        center.setY(center.y() * resizeFactor);
     }
 }

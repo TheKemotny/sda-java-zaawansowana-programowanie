@@ -28,6 +28,14 @@ public final class Point2D implements IMovable {
         return y;
     }
 
+    public void setX(final double x) {
+        this.x = x;
+    }
+
+    public void setY(final double y) {
+        this.y = y;
+    }
+
     @Override
     public boolean equals(Object obj) {
         if (obj == this) {
