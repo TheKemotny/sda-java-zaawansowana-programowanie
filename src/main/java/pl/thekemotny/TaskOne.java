@@ -1,6 +1,5 @@
 package pl.thekemotny;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
@@ -16,5 +15,9 @@ public class TaskOne {
         return Arrays.stream(args)
                 .sorted(Comparator.reverseOrder())
                 .toList();
+    }
+
+    public static void main(String[] args) {
+        System.out.println(TaskOne.sort(List.of("A", "a", "z")));
     }
 }

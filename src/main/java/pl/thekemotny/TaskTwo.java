@@ -16,4 +16,8 @@ public class TaskTwo {
                 .sorted(Comparator.comparing(s -> s, String.CASE_INSENSITIVE_ORDER.reversed()))
                 .toList();
     }
+
+    public static void main(String[] args) {
+        System.out.println(TaskTwo.sort(List.of("A", "a", "z")));
+    }
 }
