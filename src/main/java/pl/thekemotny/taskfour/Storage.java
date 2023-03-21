@@ -1,4 +1,4 @@
-package pl.thekemotny.taskfourth;
+package pl.thekemotny.taskfour;
 
 import java.util.ArrayList;
 import java.util.HashMap;

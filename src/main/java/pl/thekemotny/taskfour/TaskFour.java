@@ -1,6 +1,6 @@
-package pl.thekemotny.taskfourth;
+package pl.thekemotny.taskfour;
 
-public class TaskFourth {
+public class TaskFour {
     public static void main(String[] args) {
         Storage storage = new Storage();
         storage.addToStorage("ALA" , "ALA");

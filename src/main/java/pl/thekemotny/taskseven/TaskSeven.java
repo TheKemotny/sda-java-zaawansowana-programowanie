@@ -2,7 +2,7 @@ package pl.thekemotny.taskseven;
 
 public class TaskSeven {
     public static void main(String[] args) {
-        Magazine magazine = new Magazine(10);
+        MagazineList magazine = new MagazineList(10);
         System.out.println(magazine.isLoaded());
         magazine.loadBullet("ALA");
         magazine.loadBullet("MA");
