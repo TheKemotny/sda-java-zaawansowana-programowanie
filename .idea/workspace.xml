@@ -4,18 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="TaskFourteen">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeighteen/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeighteen/TaskEighteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskfifteen/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskfifteen/TaskFifteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/ConversionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/ConversionTypeDoubleUnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/ConversionTypeFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/IConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/MeasurementConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksixteen/Runner.java" afterDir="false" />
+    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="TaskTwenty">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/Hexagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/BasketEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/BasketFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyone/Cone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyone/IShape3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyone/Qube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/Manufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/TaskTwentySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentythree/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentytwo/IFillable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +64,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.thekemotny.tasktwentyfour" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679507408991</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="TaskTwenty">
+      <created>1679511368030</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679511368030</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +144,7 @@
     <MESSAGE value="TaskEight" />
     <MESSAGE value="TaskEleven" />
     <MESSAGE value="TaskFourteen" />
-    <option name="LAST_COMMIT_MESSAGE" value="TaskFourteen" />
+    <MESSAGE value="TaskTwenty" />
+    <option name="LAST_COMMIT_MESSAGE" value="TaskTwenty" />
   </component>
 </project>

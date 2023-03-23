@@ -4,6 +4,7 @@ import pl.thekemotny.taskthirteen.CarService;
 import pl.thekemotny.tasktwelve.Car;
 import pl.thekemotny.tasktwelve.EngineType;
 import pl.thekemotny.tasktwelve.Manufacturer;
+import pl.thekemotny.tasktwentythree.Zoo;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -36,6 +37,10 @@ public class Main {
         }));
         System.out.println(carService.isCarPresent(car));
         System.out.println(carService.getListOfCarsFromCertainManufacturer(manufacturer2));
-
+        Zoo zoo = new Zoo();
+        zoo.addAnimals("DOG", 100);
+        zoo.addAnimals("CAT", 50);
+        zoo.addAnimals("RABBIT", 123153);
+        System.out.println(zoo.getAnimalsCountSorted());
     }
 }
