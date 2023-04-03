@@ -4,71 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="26">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/files/31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/files/kajak.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirty/TaskThirty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyone/TaskThirtyOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentnyseven/Joiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentnyseven/TaskTwentySeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyeight/TaskTwentyEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/twentynine/TwentyNine.java" afterDir="false" />
+    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="31&#10;and&#10;moved">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtythree/TaskThirtyThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/TaskOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/TaskSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/TaskSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/TaskThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskFourteen/TaskFourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskFourteen/TaskFourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeight/IValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskeight/IValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeight/Parcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskeight/Parcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeight/TaskEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskeight/TaskEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeight/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskeight/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeighteen/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskeighteen/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeighteen/TaskEighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskeighteen/TaskEighteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskeleven/IResizable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskeleven/IResizable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskfifteen/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskfifteen/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskfifteen/TaskFifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskfifteen/TaskFifteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskfour/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskfour/Storage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskfour/TaskFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskfour/TaskFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/tasknine/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/tasknine/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknine/TaskNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/tasknine/TaskNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasknineteen/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/tasknineteen/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseven/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskseven/Magazine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseven/MagazineList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskseven/MagazineList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseven/TaskSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskszerotonine/taskseven/TaskSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/ConversionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskseventeen/ConversionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/ConversionTypeDoubleUnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskseventeen/ConversionTypeDoubleUnaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/ConversionTypeFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskseventeen/ConversionTypeFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/IConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskseventeen/IConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskseventeen/MeasurementConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskseventeen/MeasurementConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksixteen/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/tasksixteen/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskten/IMovable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskten/IMovable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskten/MoveDirection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskten/MoveDirection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskthirteen/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/taskthirteen/CarService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwelve/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/tasktwelve/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwelve/EngineType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/tasktwelve/EngineType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwelve/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstentonineteen/tasktwelve/Manufacturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/Hexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwenty/Hexagon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/IShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwenty/IShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwenty/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/TaskTwenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwenty/TaskTwenty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwenty/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwenty/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyfour/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/BasketEmptyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyfour/BasketEmptyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/BasketFullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyfour/BasketFullException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyfour/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyfour/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyone/Cone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyone/Cone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyone/IShape3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyone/IShape3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentyone/Qube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentyone/Qube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentysix/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/CarType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentysix/CarType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentysix/Manufacturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentysix/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentysix/TaskTwentySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentysix/TaskTwentySix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentythree/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentythree/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasktwentytwo/IFillable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/taskstwentytotwentynine/tasktwentytwo/IFillable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,8 +126,33 @@
       <option name="project" value="LOCAL" />
       <updated>1679593361002</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="31&#10;and&#10;moved">
+      <created>1679599981034</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679599981034</updated>
+    </task>
+    <task id="LOCAL-00011" summary="31&#10;and&#10;moved">
+      <created>1679599985849</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679599985849</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TaskOne&#10;TaskTwo&#10;TaskThree" />
@@ -200,6 +163,7 @@
     <MESSAGE value="TaskFourteen" />
     <MESSAGE value="TaskTwenty" />
     <MESSAGE value="26" />
-    <option name="LAST_COMMIT_MESSAGE" value="26" />
+    <MESSAGE value="31&#10;and&#10;moved" />
+    <option name="LAST_COMMIT_MESSAGE" value="31&#10;and&#10;moved" />
   </component>
 </project>
