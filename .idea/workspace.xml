@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="34">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyeight/CaffeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyeight/TaskThirtyEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyfive/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyfive/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyseven/TaskThirtySeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtysix/TaskThirtySix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtysix/ThreadPlaygroundRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtytwo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtytwo/TaskThirtyTwo.java" afterDir="false" />
+    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="32">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskrthirtyfour/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskrthirtyfour/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680538096344</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="32">
+      <created>1680626033720</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680626033720</updated>
+    </task>
+    <task id="LOCAL-00015" summary="32">
+      <created>1680626040617</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680626040617</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +194,8 @@
     <MESSAGE value="31&#10;and&#10;moved" />
     <MESSAGE value="33" />
     <MESSAGE value="34" />
-    <option name="LAST_COMMIT_MESSAGE" value="34" />
+    <MESSAGE value="32" />
+    <option name="LAST_COMMIT_MESSAGE" value="32" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
