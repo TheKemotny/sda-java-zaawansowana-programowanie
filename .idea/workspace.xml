@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="33">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskrthirtyfour/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskrthirtyfour/MyThread.java" afterDir="false" />
+    <list default="true" id="29e5d926-9455-4488-b546-46f4e34c3cfa" name="Changes" comment="34">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyeight/CaffeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyeight/TaskThirtyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyfive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyfive/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtyseven/TaskThirtySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtysix/TaskThirtySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtysix/ThreadPlaygroundRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtytwo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskthirtytwo/TaskThirtyTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskrthirtyfour/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/thekemotny/tasksthirtytothirtynine/taskrthirtyfour/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,22 +26,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2NKcfBC0cQghEddpVJ9oJdMIPmA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,13 +45,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.packagesearch.PackageSearchGeneralConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.thekemotny.tasktwentyfour" />
@@ -147,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680537771590</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="34">
+      <created>1680538096344</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680538096344</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +190,11 @@
     <MESSAGE value="26" />
     <MESSAGE value="31&#10;and&#10;moved" />
     <MESSAGE value="33" />
-    <option name="LAST_COMMIT_MESSAGE" value="33" />
+    <MESSAGE value="34" />
+    <option name="LAST_COMMIT_MESSAGE" value="34" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
